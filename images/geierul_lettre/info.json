@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 189,
+    "height" : 246
+  }, {
+    "width" : 377,
+    "height" : 491
+  }, {
+    "width" : 753,
+    "height" : 982
+  }, {
+    "width" : 1506,
+    "height" : 1963
+  }, {
+    "width" : 3012,
+    "height" : 3926
+  }, {
+    "width" : 6024,
+    "height" : 7852
+  } ],
+  "profile" : "level0",
+  "width" : 6024,
+  "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul_lettre",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 7852
+}
