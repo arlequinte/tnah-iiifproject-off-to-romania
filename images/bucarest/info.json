@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 192,
+    "height" : 237
+  }, {
+    "width" : 383,
+    "height" : 474
+  }, {
+    "width" : 765,
+    "height" : 948
+  }, {
+    "width" : 1530,
+    "height" : 1896
+  }, {
+    "width" : 3060,
+    "height" : 3792
+  }, {
+    "width" : 6120,
+    "height" : 7583
+  } ],
+  "profile" : "level0",
+  "width" : 6120,
+  "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/bucarest",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 7583
+}
