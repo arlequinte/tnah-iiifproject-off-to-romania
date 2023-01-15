@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 255,
+    "height" : 192
+  }, {
+    "width" : 510,
+    "height" : 383
+  }, {
+    "width" : 1020,
+    "height" : 765
+  }, {
+    "width" : 2040,
+    "height" : 1530
+  }, {
+    "width" : 4080,
+    "height" : 3060
+  }, {
+    "width" : 8160,
+    "height" : 6120
+  } ],
+  "profile" : "level0",
+  "width" : 8160,
+  "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/roumanie_hosto",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 6120
+}
