@@ -7,6 +7,64 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 6120,
+    "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2/canvas/",
+    "label" : {
+      "none" : [ "geierul2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 192,
+              "height" : 253
+            }, {
+              "width" : 383,
+              "height" : 505
+            }, {
+              "width" : 765,
+              "height" : 1009
+            }, {
+              "width" : 1530,
+              "height" : 2017
+            }, {
+              "width" : 3060,
+              "height" : 4033
+            }, {
+              "width" : 6120,
+              "height" : 8065
+            } ],
+            "profile" : "level0",
+            "width" : 6120,
+            "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 8065
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6120,
+          "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 8065
+        },
+        "target" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul2/canvas/"
+      } ]
+    } ],
+    "height" : 8065
+  }, {
+    "width" : 6120,
     "id" : "https://arlequinte.github.io/tnah-iiifproject-off-to-romania/images/geierul1/canvas/",
     "label" : {
       "none" : [ "geierul1" ]
